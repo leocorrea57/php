@@ -1,4 +1,4 @@
 <?php>
-print("ola mundo")
+echo "ola mundo";
 
-<?php>
+?>
